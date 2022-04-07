@@ -25,6 +25,9 @@ class MyHomePage extends StatefulWidget {
 
 
   final String title;
+  final String title1;
+  final String title2;
+  final String title3;
 
   @override
   State<MyHomePage> createState() => _MyHomePageState();
